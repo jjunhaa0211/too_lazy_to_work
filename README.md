@@ -23,3 +23,4 @@
 - `✅ old.ext → new.ext` : 변경 성공  
 - `⚠️  *.newext already exists – skipped` : 같은 이름 파일 존재, 건너뜀  
 - `❌  path rename failed: …` : 오류 이유 출력
+- - `❓  skipped: …` : 못찾음
