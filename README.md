@@ -1,6 +1,4 @@
-| 일하기 싫으니까 자동화 돌려야지~~
-
-# rename_type_to_type.py 간단 매뉴얼
+# rename_type_to_type.py 매뉴얼
 
 ## 사용 예시
 
